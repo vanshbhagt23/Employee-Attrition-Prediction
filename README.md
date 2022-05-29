@@ -4,32 +4,32 @@
 
 **Data Description** The dataset consists of 903 rows and 15 columns. Each row in dataset represents an employee; each column contains employee attributes:
 
-*name
+* name
 
-*phone numbers
+* phone numbers
+ 
+* location
 
-*location
+* Emp group
 
-*Emp group
+* unction
 
-*unction
+* Tenure
 
-*Tenure
+* Tenure Group
 
-*Tenure Group
+* Expereince
 
-*Expereince
+* Martial status
 
-*Martial status
+* Age
 
-*Age
+* Hiring sources
 
-*Hiring sources
+* Promoted/Non promoted
 
-*Promoted/Non promoted
+* Job role match
 
-*Job role match
-
-*Stay/left
+* Stay/left
 
 **APPROACH** The suggested study employs different machine learning algorithms such as Logistic regression, KNN, Decision tree, Naive bayes and data preprocessing processes to improve employee attrition prediction.
