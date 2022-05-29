@@ -1,5 +1,5 @@
 # Employee-Attrition-Prediction
-Objective - Using machine learning to predict employee attrition in Python
+**Objective **- Using machine learning to predict employee attrition in Python
 
 **Data Description** The dataset consists of 903 rows and 15 columns. Each row in dataset represents an employee; each column contains employee attributes:
 
